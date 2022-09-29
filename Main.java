@@ -20,6 +20,42 @@ public class Main {
 		Artista YungBuda = new Artista("Yung Buda", "São Paulo", "24");
 		Artista Travis = new Artista("Travis Scott", "Texas", "31");
 		
+		//==============================================================
+		//Artista Nakaya
+		
+		Artista  Djery = new Artista("Dj Ery", "São Paulo", "28");
+		Artista GBR = new Artista("DJ GBR", "São Paulo", "20");
+		Artista McLivinho = new Artista("Mc Livinho", "São Paulo", "27");
+		Artista McDonJuan = new Artista("Mc Don Juan", "São Paulo", "21");
+		Artista SalvadorDaRima = new Artista("Salvador da Rima", "São Paulo", "19");
+		Artista Sidoka = new Artista("Sidoka", "Belo Horizonte", "22");
+		Artista L7nnon = new Artista("L7nnon", "Rio de Janeiro", "28");
+		Artista PozeDoRodo = new Artista("Mc Poze do Rodo", "Rio de Janeiro", "23");
+                Artista  PostMalone = new Artista("Post Malone", "Nova York", "27");
+		Artista JustinBieber = new Artista("Justin Bieber", "Canadá", "28");
+		Artista Marshmello = new Artista("Marshmello", "Estados Unidos", "30");
+		Artista Khalid = new Artista("Khalid", "Estados Unidos", "24");
+		Artista BrunoMars = new Artista("Bruno Mars", "Estados Unidos", "36");
+		Artista EdSheeran = new Artista("EdSheeran", "Reino Unido", "31");
+		Artista Coldplay = new Artista("Coldplay", "Reino Unido", "26");
+		Artista ImagineDragons = new Artista("Imagine Dragon", "Estados Unidos", "34");
+                Artista  SnoopDog = new Artista("Snoop Dogg", "Estados Unidos", "50");
+		Artista FrankOcean = new Artista("Frank Ocean", "Estados Unidos", "34");
+		Artista ArticMonkeys = new Artista("Artic Monkeys", "Inglaterra", "30");
+		Artista Pericles = new Artista("Pérciles", "São Paulo", "53");
+		Artista Anitta = new Artista("Anitta", "São Paulo", "29");
+		Artista HarryStyle = new Artista("Harry Style", "Reino Unido", "28");
+		Artista Zyan = new Artista("Zyan", "Reino Unido", "29");
+		Artista ArianaGrande = new Artista("Ariana Grande", "Estados Unidos", "29");
+                Artista  SelenaGomez = new Artista("Selena Gomez", "Estados Unidos", "30");
+		Artista Alok = new Artista("Alok", "Goiânia", "31");
+		Artista Avicii = new Artista("Avicii", "Suécia", "29");
+		Artista OneRepublic = new Artista("One Republic", "Estados Unidos", "20");
+		Artista JorgeMatheus = new Artista("Jorge & Matheus", "Goiás", "17");
+		Artista MatheusKaua = new Artista("Matheus & Kaua", "Goiás", "12");
+		Artista HenriqueJuliano = new Artista("Henrique & Julaiano", "Tocantins", "14");
+		Artista McKevin = new Artista("Mc Kevin", "São Paulo", "23");
+                Artista McHariel = new Artista("Mc Hariel", "São Paulo", "24");
 		
 		//===============================================================
 		//Musicas
