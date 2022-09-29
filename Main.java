@@ -29,16 +29,16 @@ public class Main {
 		Slot s1 = new Slot(1,1, Vampiro);
 		
 		Musica SemDo = new Musica("Sem Do", "2021", Matue );
-		Slot s2 = new Slot(2,2, SemDo);
+		Slot s2 = new Slot(1,2, SemDo);
 		
 		Musica Groupies = new Musica("Groupies", "2021", Matue );
-		Slot s3 = new Slot(3,3, Groupies);
+		Slot s3 = new Slot(1,3, Groupies);
 			
 		Musica QuerVoar = new Musica("Quer Voar", "2021", Matue );
-		Slot s4 = new Slot(4,4, QuerVoar);
+		Slot s4 = new Slot(1,4, QuerVoar);
 	
 		Musica M4 = new Musica("M4", "2021", Matue );
-		Slot s5 = new Slot(5,5, M4);
+		Slot s5 = new Slot(1,5, M4);
 		
 		
 		//================================================================
