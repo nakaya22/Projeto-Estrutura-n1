@@ -67,10 +67,10 @@ public class Slot {
           this.descHora = "00:55";
         }
         else if (horario 13) { 
-          this.descHora = "01:00";}
+          this.descHora = "01:00";
         }
         else if (horario 14) { 
-          this.descHora = "01:05";}
+          this.descHora = "01:05";
         }
         else if (horario 15) { 
           this.descHora = "01:10";
@@ -94,10 +94,10 @@ public class Slot {
           this.descHora = "01:40";
         }
         else if (horario 22) { 
-          this.descHora = "01:45";}
+          this.descHora = "01:45";
         }
         else if (horario 23) { 
-          this.descHora = "01:50";}
+          this.descHora = "01:50";
         }
         else if (horario 24) { 
           this.descHora = "01:55";
@@ -121,10 +121,10 @@ public class Slot {
           this.descHora = "02:25";
         }
         else if (horario 31) { 
-          this.descHora = "02:30";}
+          this.descHora = "02:30";
         }
         else if (horario 32) { 
-          this.descHora = "02:35";}
+          this.descHora = "02:35";
         }
         else if (horario 33) { 
           this.descHora = "02:40";
@@ -148,10 +148,10 @@ public class Slot {
           this.descHora = "03:10";
         }
         else if (horario 40) { 
-          this.descHora = "03:15";}
+          this.descHora = "03:15";
         }
         else if (horario 41) { 
-          this.descHora = "03:20";}
+          this.descHora = "03:20";
         }
         else if (horario 42) { 
           this.descHora = "03:25";
@@ -175,10 +175,10 @@ public class Slot {
           this.descHora = "03:55";
         }
         else if (horario 49) { 
-          this.descHora = "04:00";}
+          this.descHora = "04:00";
         }
         else if (horario 50) { 
-          this.descHora = "04:05";}
+          this.descHora = "04:05";
         }
         else if (horario 51) { 
           this.descHora = "04:10";
@@ -202,10 +202,10 @@ public class Slot {
           this.descHora = "04:40";
         }
         else if (horario 58) { 
-          this.descHora = "04:45";}
+          this.descHora = "04:45";
         }
         else if (horario 59) { 
-          this.descHora = "04:50";}
+          this.descHora = "04:50";
         }
         else if (horario 60) { 
           this.descHora = "04:55";
@@ -229,10 +229,10 @@ public class Slot {
           this.descHora = "05:25";
         }
         else if (horario 67) { 
-          this.descHora = "05:30";}
+          this.descHora = "05:30";
         }
         else if (horario 98) { 
-          this.descHora = "05:35";}
+          this.descHora = "05:35";
         }
         else if (horario 69) { 
           this.descHora = "05:40";
@@ -256,10 +256,10 @@ public class Slot {
           this.descHora = "06:10";
         }
         else if (horario 76) { 
-          this.descHora = "06:15";}
+          this.descHora = "06:15";
         }
         else if (horario 77) { 
-          this.descHora = "06:20";}
+          this.descHora = "06:20";
         }
         else if (horario 78) { 
           this.descHora = "06:25";
@@ -283,10 +283,10 @@ public class Slot {
           this.descHora = "06:55";
         }
         else if (horario 85) { 
-          this.descHora = "07:00";}
+          this.descHora = "07:00";
         }
         else if (horario 86) { 
-          this.descHora = "07:05";}
+          this.descHora = "07:05";
         }
         else if (horario 87) { 
           this.descHora = "07:10";
@@ -310,10 +310,10 @@ public class Slot {
           this.descHora = "07:40";
         }
         else if (horario 94) { 
-          this.descHora = "07:45";}
+          this.descHora = "07:45";
         }
         else if (horario 95) { 
-          this.descHora = "07:50";}
+          this.descHora = "07:50";
         }
         else if (horario 96) { 
           this.descHora = "07:55";
@@ -337,10 +337,10 @@ public class Slot {
           this.descHora = "08:25";
         }
         else if (horario 103) { 
-          this.descHora = "08:30";}
+          this.descHora = "08:30";
         }
         else if (horario 104) { 
-          this.descHora = "08:35";}
+          this.descHora = "08:35";
         }
         else if (horario 105) { 
           this.descHora = "08:40";
@@ -364,10 +364,10 @@ public class Slot {
           this.descHora = "09:10";
         }
         else if (horario 112) { 
-          this.descHora = "09:15";}
+          this.descHora = "09:15";
         }
         else if (horario 113) { 
-          this.descHora = "09:20";}
+          this.descHora = "09:20";
         }
         else if (horario 114) { 
           this.descHora = "09:25";
@@ -391,10 +391,10 @@ public class Slot {
           this.descHora = "09:55";
         }
         else if (horario 121) { 
-          this.descHora = "10:00";}
+          this.descHora = "10:00";
         }
         else if (horario 122) { 
-          this.descHora = "04:05";}
+          this.descHora = "04:05";
         }
         else if (horario 123) { 
           this.descHora = "10:10";
@@ -418,10 +418,10 @@ public class Slot {
           this.descHora = "10:40";
         }
         else if (horario 130) { 
-          this.descHora = "10:45";}
+          this.descHora = "10:45";
         }
         else if (horario 131) { 
-          this.descHora = "10:50";}
+          this.descHora = "10:50";
         }
         else if (horario 132) { 
           this.descHora = "10:55";
@@ -445,10 +445,10 @@ public class Slot {
           this.descHora = "11:25";
         }
         else if (horario 139) { 
-          this.descHora = "11:30";}
+          this.descHora = "11:30";
         }
         else if (horario 140) { 
-          this.descHora = "11:35";}
+          this.descHora = "11:35";
         }
         else if (horario 141) { 
           this.descHora = "11:40";
@@ -472,10 +472,10 @@ public class Slot {
           this.descHora = "12:10";
         }
         else if (horario 148) { 
-          this.descHora = "12:15";}
+          this.descHora = "12:15";
         }
         else if (horario 149) { 
-          this.descHora = "12:20";}
+          this.descHora = "12:20";
         }
         else if (horario 150) { 
           this.descHora = "12:25";
@@ -502,10 +502,10 @@ public class Slot {
           this.descHora = "13:00";
         }
         else if (horario 158) { 
-          this.descHora = "13:05";}
+          this.descHora = "13:05";
         }
         else if (horario 159) { 
-          this.descHora = "13:10";}
+          this.descHora = "13:10";
         }
         else if (horario 160) { 
           this.descHora = "13:15";
@@ -529,7 +529,7 @@ public class Slot {
           this.descHora = "13:45";
         }
         else if (horario 167) { 
-          this.descHora = "13:50";}
+          this.descHora = "13:50";
         }
         else if (horario 168) { 
           this.descHora = "13:55";
