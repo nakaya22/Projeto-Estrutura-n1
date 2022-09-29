@@ -57,7 +57,6 @@ public class TadFila {
 				System.out.println(fila[i].dscrição());
 				
 			}
-			i++;
 		} return " ";
 		
 	}
