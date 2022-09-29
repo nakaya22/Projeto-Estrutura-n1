@@ -40,6 +40,15 @@ public class Main {
 		Musica M4 = new Musica("M4", "2021", Matue );
 		Slot s5 = new Slot(1,5, M4);
 		
+		Musica FimDeSemanaNoRio = new Musica("Fim de Semana no Rio", "2022", Teto);
+		Slot s6 = new Slot(1,6, FimDeSemanaNoRio);
+		
+		Musica MustangPreto = new Musica("Mustang Preto", "2021", Teto);
+		Slot s7 = new Slot(1, 7, MustangPreto);
+		
+		Musica PayPal = new Musica("PayPal", "2021", Teto);
+		Slot s8 = new Slot(', 8, PayPal);
+		
 		
 		//================================================================
 		
